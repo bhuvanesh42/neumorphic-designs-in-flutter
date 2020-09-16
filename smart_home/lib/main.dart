@@ -136,7 +136,7 @@ class MySmartHome extends StatelessWidget {
                                   color: Colors.white.withOpacity(.7)),
                             ]),
                         child: Padding(
-                          padding: const EdgeInsets.all(10.0),
+                          padding: const EdgeInsets.all(15.0),
                           child: Container(
                             decoration: BoxDecoration(
                                 color: Color(0xFFe6ebf2),
